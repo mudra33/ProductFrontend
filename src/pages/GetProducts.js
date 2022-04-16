@@ -1,6 +1,5 @@
 import React, { useState, useContext, useEffect } from 'react';
 import Dashboard from '../Dashboard';
-import { Link } from 'react-router-dom';
 import { productData } from '../context/ProductContext';
 
 const GetProducts = () => {
